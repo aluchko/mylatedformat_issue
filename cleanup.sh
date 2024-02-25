@@ -3,3 +3,4 @@
 find . -name "*.log" -type f -delete
 find . -name "*.aux" -type f -delete
 find . -name "*.pdf" -type f -delete
+find . -name "*.fmt" -type f -delete
